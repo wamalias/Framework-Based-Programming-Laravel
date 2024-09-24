@@ -34,3 +34,10 @@ Halaman Single Post
 
 Error Handling (ketika halaman tidak ditemukan)
 ![Screenshot 2024-09-18 213549](https://github.com/user-attachments/assets/08530fd6-9bf2-4b9f-9a1b-5deaa6b064bf)
+
+Dalam tahap pembuatan migrasi data dan penggunaan eloquent ORM, database yang digunakan bertipe SQLite dan memanfaatkan TablePlus untuk membuat koneksi database. Berikut adalah tampilan database beserta tabel Posts hasil dari migrasi dan input data menggunakan php artisan tinker
+![Screenshot 2024-09-24 151534](https://github.com/user-attachments/assets/49133344-bcc3-481e-8602-e993f385469f)
+
+Kemudian, berikut adalah tampilan blog (/Posts dan /Posts/{post:slug}) yang telah menampilkan data dari database. Untuk tanggal postingan juga telah disesuaikan dengan isi kolom created_at dengan pengaturan format tanggal bulan tahun sesuai formatting php (j F Y).
+![Screenshot 2024-09-24 151458](https://github.com/user-attachments/assets/d4ce8f92-47b8-47cd-9e62-f5e8ea3eee18)
+![Screenshot 2024-09-24 151509](https://github.com/user-attachments/assets/f2c98057-ce78-43de-9604-11009d064fdf)
