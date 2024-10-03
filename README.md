@@ -41,3 +41,9 @@ Dalam tahap pembuatan migrasi data dan penggunaan eloquent ORM, database yang di
 Kemudian, berikut adalah tampilan blog (/Posts dan /Posts/{post:slug}) yang telah menampilkan data dari database. Untuk tanggal postingan juga telah disesuaikan dengan isi kolom created_at dengan pengaturan format tanggal bulan tahun sesuai formatting php (j F Y).
 ![Screenshot 2024-09-24 151458](https://github.com/user-attachments/assets/d4ce8f92-47b8-47cd-9e62-f5e8ea3eee18)
 ![Screenshot 2024-09-24 151509](https://github.com/user-attachments/assets/f2c98057-ce78-43de-9604-11009d064fdf)
+
+Setelah mengelola hubungan eloquent dan menambahkan Category sebagai salah satu model, berikut adalah tampilan yang dapat dihasilkan. Tampilan blog akan menampilkan judul artikel, nama penulis, kategori artikel, dan waktu post artikel. Selain itu, kita tidak hanya bisa menampilkan halaman single post untuk setiap artikel. Kita bisa menampilkan daftar artikel berdasarkan penulis atau kategori.
+![Screenshot 2024-10-02 171953](https://github.com/user-attachments/assets/0a96043d-e3c5-45e0-8167-fcb4e5bec113)
+![Screenshot 2024-10-02 172008](https://github.com/user-attachments/assets/04d9faef-cf4c-4572-8553-a6c774cd11b7)
+![Screenshot 2024-10-02 172038](https://github.com/user-attachments/assets/74489234-2b11-4e7f-8bcc-db3fb89ce321)
+![Screenshot 2024-10-02 172024](https://github.com/user-attachments/assets/e0c64008-055a-4d2a-8eb3-c7e8698b0461)
