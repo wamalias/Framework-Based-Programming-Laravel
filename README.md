@@ -47,3 +47,23 @@ Setelah mengelola hubungan eloquent dan menambahkan Category sebagai salah satu 
 ![Screenshot 2024-10-02 172008](https://github.com/user-attachments/assets/04d9faef-cf4c-4572-8553-a6c774cd11b7)
 ![Screenshot 2024-10-02 172038](https://github.com/user-attachments/assets/74489234-2b11-4e7f-8bcc-db3fb89ce321)
 ![Screenshot 2024-10-02 172024](https://github.com/user-attachments/assets/e0c64008-055a-4d2a-8eb3-c7e8698b0461)
+
+After Redesign UI
+- All post
+![Screenshot 2024-10-08 095528](https://github.com/user-attachments/assets/9b16ea6c-2607-47ce-9d50-8edf2dd6a94c)
+
+- Page 3 of UI/UX Category
+![Screenshot 2024-10-08 095602](https://github.com/user-attachments/assets/c1190fc0-86f8-461d-851d-f34878e6fecf)
+
+- Page 2 of Data Structure Category and "Dolor" in title
+![Screenshot 2024-10-08 095843](https://github.com/user-attachments/assets/4a0046a5-dde0-4f7f-8148-dec2b07ea647)
+
+- Post by Wardatul Amalia Safitri with "Fugiat" in title
+![Screenshot 2024-10-08 095813](https://github.com/user-attachments/assets/eea1b010-de6d-4d47-8dda-9f8bf15e599b)
+
+- Page 2 of Post by Tira Puspasari
+![Screenshot 2024-10-08 095623](https://github.com/user-attachments/assets/b219186c-881b-42aa-ba68-38b17de2b63b)
+
+- Single Post
+![Screenshot 2024-10-08 095932](https://github.com/user-attachments/assets/249f844a-85ac-468b-9977-95c66b0fe51f)
+
